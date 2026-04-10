@@ -12,4 +12,3 @@ Information Security Essentials<br>
 Cybercrime and Incident Response <br>
 Networking Essentials<br>
 Fundamentals of Programming<br>
-![Picture of Dog studying](https://www.istockphoto.com/photos/funny-scientist-studying-books)
