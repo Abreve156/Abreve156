@@ -1,4 +1,6 @@
-## Hello my name is Anthony Breve 🙋‍♂️
+## Hello there 🙋‍♂️
+My name is Anthony Breve <br>
+
 I am currently attending **Harold Washington College** <br>
 <br>I am currently trying to earn my degree **Computer Science with a focus on Cybersecurity** <br>
 <br>📫 How to reach me: You can reach me by my email **Anthony.Breve.Connect@gmail.com**<br>
